@@ -1,0 +1,10 @@
+{
+    "input_dir": "~/Dropbox/gescannt",
+    "belege_dir": "~/Dropbox/Belege",
+    "excel_path": "~/Dropbox/digitale Buchfuehrung/belege.xlsx",
+    "category_map": {
+        "lohnabrechnung": "Personalakte Frank/Abrechnungen",
+        "rechnung": "Rechnungen",
+        "miete": "Miete"
+    }
+}
